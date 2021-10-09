@@ -127,6 +127,8 @@
                         android:textStyle="bold"
                         />
                 </RelativeLayout>
+
+
                 <RelativeLayout
                     android:id="@+id/rl_addbusiness"
                     android:layout_width="match_parent"
@@ -148,7 +150,6 @@
                         android:layout_height="wrap_content"
                         android:layout_centerVertical="true"
                         android:layout_marginLeft="15dp"
-
                         android:layout_toRightOf="@+id/iv_nav_mybusiness"
                         android:text="Add Business"
                         android:textColor="@color/colorTheame"
@@ -156,6 +157,8 @@
                         android:textStyle="bold"
                         />
                 </RelativeLayout>
+
+
                 <!--    <RelativeLayout
                             android:id="@+id/rl_editbusiness"
                             android:layout_width="match_parent"
@@ -213,6 +216,9 @@
                         android:textStyle="bold"
                         />
                 </RelativeLayout>
+
+
+
                 <!-- <RelativeLayout
                      android:layout_width="match_parent"
                      android:layout_height="50dp"
